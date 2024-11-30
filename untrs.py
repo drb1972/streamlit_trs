@@ -4,6 +4,10 @@ import yaml
 import json
 import zw
 
+def getuser():
+   hlq=zw.find_userid()
+   
+
 # Button to stop the app
 if st.button("Stop App"):
    st.stop()  # Stops the execution of the app
