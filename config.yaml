@@ -3,8 +3,8 @@ local:
   file: FILE.N.Q1.TRS
 out: .\out\
 remote:
-  tersed_dataset: FILE.N.Q1.TRS
+  tersed_dataset: PROD001.TRS
   type:
   - SEQ
   - PDS
-  untersed_dataset: FILE.N.Q1.TRS
+  untersed_dataset: PROD001.UNTRS
