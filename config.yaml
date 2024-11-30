@@ -1,0 +1,10 @@
+local:
+  dir: C:\Users\dr891415\Downloads\
+  file: FILE.N.Q1.TRS
+out: .\out\
+remote:
+  tersed_dataset: FILE.N.Q1.TRS
+  type:
+  - SEQ
+  - PDS
+  untersed_dataset: FILE.N.Q1.TRS
